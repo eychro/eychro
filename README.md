@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @eychro
-
 <div align="center">
   <a href="https://discord.gg/A2YjRxywn5" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
@@ -12,6 +10,18 @@
 
 ###
 
+<h1 align="center">About Me:</h1>
+
+###
+
+<p align="left">Hi, I'm a junior developer who enjoys creating plugins for Minecraft servers. I offer them for free to all owners and developers so they can enhance their servers and streamline their processes. It's my way of contributing to the Minecraft community and helping others be more efficient in managing their servers.</p>
+
+###
+
+<h2 align="center">Languages that i know:</h2>
+
+###
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" height="40" alt="java logo"  />
   <img width="12" />
@@ -19,6 +29,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="40" alt="css3 logo"  />
 </div>
+
+###
+
+<h2 align="center">What im listening:</h2>
 
 ###
 
