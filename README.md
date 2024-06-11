@@ -18,7 +18,7 @@
 
 ###
 
-<h2 align="center">Languages that i know:</h2>
+<h2 align="center">What i can manage:</h2>
 
 ###
 
