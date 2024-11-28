@@ -6,17 +6,6 @@
 
 ###
 
-<h1 align="center">About Me:</h1>
-
-###
-
-<p align="left">Hi, I'm a junior developer who enjoys creating plugins for Minecraft servers. I offer them for free to all owners and developers so they can enhance their servers and streamline their processes. It's my way of contributing to the Minecraft community and helping others be more efficient in managing their servers.</p>
-
-###
-
-<h2 align="center">What i can manage:</h2>
-
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" height="40" alt="java logo"  />
@@ -28,14 +17,4 @@
 
 ###
 
-<h2 align="center">What im listening:</h2>
 
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31tziae37jovrypy7dfti5bxypuq">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31tziae37jovrypy7dfti5bxypuq&count=3" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
